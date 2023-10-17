@@ -4,7 +4,7 @@ from flask import Flask, request, render_template
 import pickle
 
 app = Flask(__name__)
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('models.pkl', 'rb'))
 
 @app.route('/')
 def home():
@@ -34,3 +34,5 @@ def predict():
 
 if __name__ == "__main__":
   app.run()
+
+#Got Errors : vatshayan007@gmail.com
