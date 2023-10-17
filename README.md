@@ -1,7 +1,8 @@
 # Breast-Cancer-Detection-Using-Machine-Learning
-Breast Cancer Detection Using Machine Learning Project Code, PPT, Synopsis, Report and Video Explanation
 
-Youtube Explanation : https://youtu.be/TzkyqZhNCEo?si=hUnDeC1UAWyQylKN
+###Breast Cancer Detection Using Machine Learning Project Code, PPT, Synopsis, Report and Video Explanation
+
+### Youtube Explanation : https://youtu.be/TzkyqZhNCEo?si=hUnDeC1UAWyQylKN
 
 ![breast cancer l](https://github.com/Vatshayan/Breast-Cancer-Detection-Using-Machine-Learning/assets/28294942/cfa6f3ed-cd23-4d80-a638-3158a0d9d8a7)
 
